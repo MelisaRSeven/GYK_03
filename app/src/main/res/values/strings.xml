@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">GYK_03</string>
+
+    <string name="diet_name">Diet Name</string>
+    <string name="calories"> KCAL</string>
+
+    <string name="body_mass">Body Mass Index</string>
+    <string name="weight">Weight (KG)</string>
+    <string name="height">Height (CM)</string>
+    <string name="calculate">Calculate</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_health">Health</string>
+    <string name="title_diet">Diet</string>
+
+    <string name="tips">Keep Fat to a Minimum</string>
+    <string name="tip_article">Adult diets should be low in fat, especially saturated fat.Saturated fat, which is the main fat in animal products,
+        fried foods, chocolate, cakes and biscuits, is more easily deposited as fat tissue than unsaturated fat. Saturated fat can also be converted
+        into cholesterol and cause blood cholesterol levels to rise. Dietary fat helps with the absorption of fat-soluble vitamins (A, D, E and K).
+        Small amounts of polyunsaturated and monounsaturated fats may have some health benefits when they are part of a healthy diet.
+        Monounsaturated fats are found in nuts, olive oil and avocados, and may help to lower the bad type of cholesterol (low-density lipoprotein or LDL).
+        Polyunsaturated fats are generally thought to lower blood cholesterol levels. Polyunsaturated omega-3 fatty acids, which are found in fish, nuts and
+        seeds, are thought to have an anti-clotting effect on blood, to reduce the risk of heart disease and to possibly lower blood pressure.</string>
+
+    <string name="title_activity_detay">DetayActivity</string>
+</resources>
